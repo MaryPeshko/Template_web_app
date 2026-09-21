@@ -1,3 +1,6 @@
+# passwords, API keys
+.env
+
 # Node
 client/node_modules/
 client/dist/
@@ -10,3 +13,4 @@ __pycache__/
 # OS/IDE
 .DS_Store
 .vscode/
+
